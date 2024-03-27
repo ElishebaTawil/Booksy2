@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "398106753858",
+    "project_id": "booksy2-c794c",
+    "storage_bucket": "booksy2-c794c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398106753858:android:630aace7b8cd2f3693e6db",
+        "android_client_info": {
+          "package_name": "com.elishebatawil.booksy2_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPACrxQY12iahloaYLlIJQio89Hq7mQt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398106753858:android:669c81a4252a37b793e6db",
+        "android_client_info": {
+          "package_name": "com.example.booksy_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPACrxQY12iahloaYLlIJQio89Hq7mQt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
